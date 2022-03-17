@@ -6,9 +6,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/TechDPi/argo-test
+    repoURL: https://github.com/TechDPi/automation.git
     targetRevision: HEAD
-    path: argo/example-app
+    path: devops-tutorial/argo/example-app
     directory:
       recurse: true
   destination:
